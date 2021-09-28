@@ -721,6 +721,9 @@ background-image: url(img/github_account_9.png)
 
 # If you see this, you are in the right place!
 
+I see something different than you see; I get:
+"You’re making changes in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change will write it to a new branch in your fork, so you can send a pull request."
+
 ---
 class: left, middle
 # If you don't have that screen, don't worry. Clicking the pencil has forked the repo and created a new branch. Check your profile page.
@@ -758,8 +761,7 @@ exclamation <- c("WOOOOOO",
                  "Yes",
                  "Yay",
                  "YeeHAW",
-                 "You DID IT",
-                 "WOW")
+                 "You DID IT")
 
 adjective <- c("Awesome",
                "Great",
